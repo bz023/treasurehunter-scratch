@@ -1,5 +1,7 @@
 # treasurehunter-scratch
 
+LINK: https://scratch.mit.edu/projects/1137395627
+
 A játék lényege, hogy találjuk meg a 10 darab kincset a térképen (piros X).
 Mozogni a nyílbillentyűkkel lehet.
 Jó szórakozást! :)
